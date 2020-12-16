@@ -1,5 +1,5 @@
 ![Autognorics](gnorics.jpg)
-# ELFS: Engineered Life Forms Systems
+# ELFS: Engineered Life Forms
 [HOME](https://autognorics.github.io/) 
 
 Joey Lawsin, the author of Autognorics, redefined Alive or aliveness as the ability of an organism to self-consume energy provided by an external source. An infant, when guided, gets his/her energy from his/her mother's milk, an external source. A machine, when guided, gets its energy from a charging station or a solar panel, another external source. Technically, the machine and baby are both considered alive.
