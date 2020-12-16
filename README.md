@@ -1,6 +1,8 @@
-# Engineered Life Forms Systems
+![Autognorics](gnorics.jpg)
+# ELFS: Engineered Life Forms Systems
+[HOME](https://autognorics.github.io/) 
 
-Lawsin redefined Alive or aliveness as the ability of an organism to self-consume energy provided by an external source. An infant, when guided, gets his/her energy from his/her mother's milk, an external source. A machine, when guided, gets its energy from a charging station or a solar panel, another external source. Technically, the machine and baby are both considered alive.
+Joey Lawsin, the author of Autognorics, redefined Alive or aliveness as the ability of an organism to self-consume energy provided by an external source. An infant, when guided, gets his/her energy from his/her mother's milk, an external source. A machine, when guided, gets its energy from a charging station or a solar panel, another external source. Technically, the machine and baby are both considered alive.
 
 Awareness, meanwhile, is redefined based on two prerequisites. First, the object is alive, and second, it is equipped with intuitive sensors. A newborn is aware because he/she consumes energy and his/her physical body is rig with common sensors like the ears, eyes, nose, and skin to name a few. However, these sensors function without the intervention of the brain at the early stage of the life of the baby. A machine is as well aware when it self-consumes energy and is automated with intuitive or wise sensors. The intuitive objects are triggered dimetrically by Inscription by Design. Here, the baby and the machine are alive and aware but not conscious, intuitive, self-knowledge, and living yet.
 
@@ -18,3 +20,7 @@ In summary, Life is defined based on one or all the following:
 4. Intuitive
 5. Neural
 6. Living
+
+
+
+> "Life is Chemistry not Biology." ~ Joey Lawsin
