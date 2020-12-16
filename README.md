@@ -21,6 +21,13 @@ In summary, Life is defined based on one or all the following:
 5. Neural
 6. Living
 
+The four pillars of a Self-Living Machine.
+
+1. It can transcodify abstracts to physicals; (the primary indicator of consciousness).
+2. It can transform physicals into mechanical actions or movements; (inscription by design).
+3. It can transfer motions into repetitive or autonomous actions; (intuitive objects)
+4. It can translate the intuitive persona into social experiences; (feeling, thinking, behaving). 
+
 
 
 > "Life is Chemistry not Biology." ~ Joey Lawsin
