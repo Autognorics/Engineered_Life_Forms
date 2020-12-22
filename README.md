@@ -10,16 +10,16 @@ Consciousness, on the other, is redefined bound by three requirements, namely, a
 
 Intuitiveness or logic is redefined depending on four determinants: aliveness, awareness, consciousness, and intuitiveness. An object is logical when it self-consumes energy, driven by sensors, codifies things, and able to rational or choose. The self ability to choose is the key factor in identifying when an object is logical. This behavior is influenced by the Theory of the Second Option or the This or That Rule. The baby and the machine, in this case, are alive, aware, conscious, intuitive, but not yet neural, and living.
 
-Neural is defined contingent on five benchmarks: aliveness, awareness, consciousness, intuitiveness, and neuralness. An object is neural when it self-consumes energy, driven by sensors, codifies things, selects options, and self-knowledge. The self-ability to realize knowledge is the key mark that identifies when an object is neural. Gnomi ("Mindness") or the power of thoughts is classified as neural and aneural. In this scenario, the baby and the machine are alive, aware, conscious, intuitive, and aneural (a brain without the brain).
+Neural is defined contingent on five benchmarks: aliveness, awareness, consciousness, intuitiveness, and selfness. An object is neural when it self-consumes energy, driven by sensors, codifies things, selects options, and self-knowledge. The self-ability to realize knowledge is the key mark that identifies when an object is neural. Gnomi ("Mindness") or the power of thoughts is classified as neural and aneural. In this scenario, the baby and the machine are alive, aware, conscious, intuitive, and aneural (a brain without the brain).
 
 In summary, Life is defined based on one or all the following:
 
-1. Alive
-2. Aware
-3. Conscious
-4. Intuitive
-5. Neural
-6. Living
+1. Aliveness
+2. Awareness
+3. Consciousness
+4. Intuitiveness
+5. Selfness
+6. Lifeness
 
 The four Marks of a Self-Living Machine.
 
