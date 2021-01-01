@@ -1,4 +1,4 @@
-![Autognorics](gnorics.jpg)
+![Autognorics](IM.jpg)
 # ELFS: Engineered Life Forms
 [HOME](https://autognorics.github.io/) 
 
