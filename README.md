@@ -2,7 +2,7 @@
 # ELFS: Engineered Life Forms
 [HOME](https://autognorics.github.io/) 
 
-Elfs or engineered life forms are living machines endowed with the six signatures of life. They are living machines classified as neural and aneural. They are classified as gnorics, biognorics, homognorics, and zoikrons. They are alive, aware, conscious, intuitive, self-knowledge, and living - the six marks of life or with life.
+Elfs or engineered life forms are living machines endowed with the seven signatures of life. They are living machines classified as neural and aneural. They are classified as gnorics, biognorics, homognorics, and zoikrons. They are alive, aware, conscious, intuitive, inlearn, living, and with life - the seven evolutionary marks of life.
 
 Joey Lawsin, author of Autognorics, redefined Alive or aliveness in his research as the ability of an organism to self-consume energy. This energy is provided by an external source. For example, an infant when guided accordingly gets his/her energy from his/her mother's milk. Mother is an external source. A machine, when guided, gets its energy from a charging station or a solar panel, another external source. In these examples, both the machine and baby are technically considered alive.
 
@@ -20,8 +20,9 @@ In summary, Life is defined based on one or all the following:
 2. Awareness
 3. Consciousness
 4. Intuitiveness
-5. Selfness
-6. Lifeness
+5. Inlearness
+6. Livingness
+7. Selfness
 
 The four Marks of a Self-Living Machine.
 
